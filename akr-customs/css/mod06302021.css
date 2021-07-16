@@ -1,0 +1,7 @@
+/* Modification 06302021 */
+div#akrlisttaxterms { display: flex; flex-wrap: wrap;}
+.tax-item {
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+.tax-item a {}
